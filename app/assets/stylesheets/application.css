@@ -44,3 +44,11 @@
 .link {
   margin-top: 25px;
 }
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin-bottom: 15px;
+}
